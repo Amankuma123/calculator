@@ -1,0 +1,33 @@
+ *{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(40, 145, 175);
+ }
+ body{
+    background-color: #0e0101;
+ }
+ 
+ .calculator {
+     max-width: 350px;
+     margin: 50px auto;
+     padding: 20px;
+     border-radius: 15px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+     background: #0e0101;
+ }
+
+ .display {
+     font-size: 2rem;
+     text-align: right;
+     margin-bottom: 15px;
+     height: 50px;
+     padding: 10px;
+     border: 1px solid #ced4da;
+     border-radius: 8px;
+     background: #e0e3e7;
+ }
+
+ .btn {
+     font-size: 1.2rem;
+     width: 100%;
+ }
